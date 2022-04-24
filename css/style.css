@@ -1932,7 +1932,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
     background-color: #efefef;
 }
 .services .services-box {
-    margin: 25px 0;
+    margin: 25px 100px;
 }
 .services .services-box:before {
     content: "";
@@ -3191,7 +3191,7 @@ ul.bxslider img {
 /* Banner */
 
 .banner {
-    background-image: url("http://via.placeholder.com/1920x624");
+  background-image: url("http://via.placeholder.com/1920x624");
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
