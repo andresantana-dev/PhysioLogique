@@ -1932,7 +1932,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
     background-color: #efefef;
 }
 .services .services-box {
-    margin: 25px 100px;
+    margin: 25px 0;
 }
 .services .services-box:before {
     content: "";
