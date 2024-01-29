@@ -2408,7 +2408,8 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .facts {
-    background-image: url("http://via.placeholder.com/1600x650");
+    /* background-image: url("http://via.placeholder.com/1600x650"); */
+    background-color: #efefef;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -2956,7 +2957,8 @@ body.blog-page article .comments-form .custom-button:before {
 
 .videopromotion {
     color: #fff;
-    background-image: url("http://via.placeholder.com/1600x650");
+    /* background-image: url("http://via.placeholder.com/1600x650"); */
+    background-color: #efefef;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
