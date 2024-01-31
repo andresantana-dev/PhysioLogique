@@ -1878,6 +1878,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 .about .about-content .custom-button:before {
     content: "\f03e";
 }
+h1 { font-size: 200%; }
 /* Project Manager
 ---------------------------------------- */
 
